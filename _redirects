@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ESME BPR Workflow System</title>
+    <meta name="description" content="Batch Packing Record Workflow Management System — Esme Consumer Pvt. Ltd., Baddi H.P." />
+    <style>
+      *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+      body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; background: #f1f5f9; }
+      #root { min-height: 100vh; }
+    </style>
+    <script type="module" crossorigin src="/assets/index-CfMgBgvU.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
